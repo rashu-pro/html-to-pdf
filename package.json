@@ -1,0 +1,30 @@
+{
+  "name": "html-to-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashu-pro/html-to-pdf.git"
+  },
+  "keywords": [
+    "html",
+    "pdf",
+    "html",
+    "to",
+    "pdf"
+  ],
+  "author": "rashu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashu-pro/html-to-pdf/issues"
+  },
+  "homepage": "https://github.com/rashu-pro/html-to-pdf#readme",
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1"
+  }
+}
